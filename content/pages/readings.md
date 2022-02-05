@@ -14,15 +14,143 @@ Readings listed in the table below are from the following textbooks and notes:
 
 (SN) Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes))
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 2 | Compactness, Connectedness | M, sections 1 and 2 |
-| 3 | Differentiation in n Dimensions | M, end of section 4 on connectedness |
-| 8 | Reimann Integrals of Several Variables, Conditions for Integrability | M, section 10 |
-| 10 | Fubini Theorem, Properties of Reimann Integrals Graded | M, section 11 |
-| 13 | Exhaustions | M, theorem 15.3 and following paragraph |
-| 15 | Partitions of Unity (cont.), Exhaustions (cont.) | M, sections 1 and 2  {{< br >}}  {{< br >}}MLA |
-| 22 | The d Operator (cont.), Pullback Operator on Exterior Forms | M, section 29 |
-| 24 | Poincare Theorem | SN, section 1 |
-| 34 | Orientations of Manifolds | MLA, section 7 |
-| 35 | Integration on Manifolds, Degree on Manifolds | M, section 34, pp. 281-286 only
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Compactness, Connectedness
+{{< tdclose >}}
+{{< tdopen >}}
+M, sections 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation in n Dimensions
+{{< tdclose >}}
+{{< tdopen >}}
+M, end of section 4 on connectedness
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Reimann Integrals of Several Variables, Conditions for Integrability
+{{< tdclose >}}
+{{< tdopen >}}
+M, section 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Fubini Theorem, Properties of Reimann Integrals Graded
+{{< tdclose >}}
+{{< tdopen >}}
+M, section 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Exhaustions
+{{< tdclose >}}
+{{< tdopen >}}
+M, theorem 15.3 and following paragraph
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Partitions of Unity (cont.), Exhaustions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+M, sections 1 and 2  
+  
+MLA
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The d Operator (cont.), Pullback Operator on Exterior Forms
+{{< tdclose >}}
+{{< tdopen >}}
+M, section 29
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Poincare Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+SN, section 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Orientations of Manifolds
+{{< tdclose >}}
+{{< tdopen >}}
+MLA, section 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Integration on Manifolds, Degree on Manifolds
+{{< tdclose >}}
+{{< tdopen >}}
+M, section 34, pp. 281-286 only
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
