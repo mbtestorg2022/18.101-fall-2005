@@ -4,6 +4,7 @@ description: This resource provides information regarding theory of tensors, pul
   operators, alternating tensors along with some definitions, remarks and proofs.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-101-analysis-ii-fall-2005/35663a54a97807582f11e26ceff7be1e_lecture17.pdf
 file_type: application/pdf
+parent_uid: f1e66049-be8c-2147-5acb-40dde4a2a82d
 resourcetype: Document
 title: lecture17.pdf
 uid: 35663a54-a978-0758-2f11-e26ceff7be1e

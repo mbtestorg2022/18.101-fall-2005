@@ -4,6 +4,7 @@ description: This resource provides information regarding improper integrals alo
   with some definitions, remarks and corollary.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-101-analysis-ii-fall-2005/4b2dd38de326cb4d6498bb81e75ce476_lecture12.pdf
 file_type: application/pdf
+parent_uid: f1e66049-be8c-2147-5acb-40dde4a2a82d
 resourcetype: Document
 title: lecture12.pdf
 uid: 4b2dd38d-e326-cb4d-6498-bb81e75ce476

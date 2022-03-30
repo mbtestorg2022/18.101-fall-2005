@@ -4,6 +4,7 @@ description: 'This resource explains the topics: Integration on smooth domains, 
   theorem.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-101-analysis-ii-fall-2005/96d40deae73e28e888fb9ad80596f674_lecture38.pdf
 file_type: application/pdf
+parent_uid: f1e66049-be8c-2147-5acb-40dde4a2a82d
 resourcetype: Document
 title: lecture38.pdf
 uid: 96d40dea-e73e-28e8-88fb-9ad80596f674
